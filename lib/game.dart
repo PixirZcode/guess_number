@@ -2,7 +2,7 @@ import 'dart:math';
 
 class Game {
   int answer = 0; // instance field
-  var count = 0; // นับจำนวนที่ทาย
+  var count = 0; // นับจำนวนครั้งที่ทาย
 
   Game(){
     var r = Random();
